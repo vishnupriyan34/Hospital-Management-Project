@@ -1,0 +1,6 @@
+{
+  "name": "MediNexus",
+  "description": "Modern full-stack hospital management system connecting patients, doctors, and administrators with role-based scheduling, electronic health records, digital prescriptions, and operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
