@@ -2,10 +2,7 @@
 
 > 🏥 An intelligent and modern **Hospital Management System** designed to streamline hospital operations, patient care, doctor management, appointments, prescriptions, medical records, and administrative workflows through a centralized digital platform.
 
-🌐 **Live Project:** Coming Soon
-
-🎥 **Demo Video:** Coming Soon
-
+🌐 **Live Project:** https://medinexus-ai-8a5t.onrender.com/
 ---
 
 # 🚀 Live Demo
@@ -14,7 +11,7 @@
 
 The deployed application will allow users to interact with MediNexus AI and explore its hospital management capabilities.
 
-> 🚀 **Live Application: Coming Soon**
+> 🚀 **Live Application: https://medinexus-ai-8a5t.onrender.com/**
 
 ---
 
